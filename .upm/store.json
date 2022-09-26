@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"25fcc4d0f12e453b110358f0a833b044","lockfileHash":"25c4f98a289043252154b9bd6150596e","guessedImports":["@davatar/react","@fontsource/poppins","react-hot-toast","react","wagmi","react-timeago","ethers","truncate-middle","react-query","next","@chakra-ui/react"],"guessedImportsHash":"2b494feec42254780e01e5a739c3ea0d"}}}

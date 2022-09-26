@@ -35,7 +35,7 @@ const App: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Comment Panel</title>
+        <title>hoji#9756</title>
       </Head>
       <WagmiProvider autoConnect provider={provider}>
         <ChakraProvider theme={theme}>
